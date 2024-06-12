@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Serverless stuff
-- - 😄 Pronouns: He/Him
- 
-  - 
+- 🌱 I’m currently learning all things AI and how to intermingle it with serverless
+- 💬 Ask me about  Serverless technologies, Kubernetes, and JRPGs
+
 <!--
 **jasonsmithio/jasonsmithio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
